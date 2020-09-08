@@ -6,5 +6,6 @@ Robot recieves a bluetooth command indicating where the ball is located. By foll
 
 ## Setup and Usage
 This program was written for a custom robot and therefore not able to be reproduced.
+See comment header in main program for group member names
 
 
